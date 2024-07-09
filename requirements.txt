@@ -1,0 +1,15 @@
+opencv-python==4.10.0.82
+opencv-python-headless==4.10.0.82
+numpy==1.26.4
+pytesseract==0.3.10
+pdf2image==1.17.0
+gradio==4.36.1
+gradio_client==1.0.1
+json5==0.9.25
+jsonpointer==2.4
+jsonschema==4.22.0
+jsonschema-specifications==2023.12.1
+fastjsonschema==2.19.1
+orjson==3.10.4
+python-json-logger==2.0.7
+ujson==5.10.0
